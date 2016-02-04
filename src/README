@@ -1,12 +1,11 @@
 Name: Alseny Diallo 
-Email: alseny.diallo@wsu.edu
-SID: 11500034
+Email: alsenidiallo@live.com
 
 Project overview:
 ----------------
 This project is an implementation of a Java application that creates a maze using 
 depth first search (DFS). Starting with a randomly selected vertex 's' on the left side the
-graph, we visit every vertex in the graph keeping track of the previous ìparent nodeî which defines
+graph, we visit every vertex in the graph keeping track of the previous ‚Äúparent node‚Äù which defines
 the spanning tree in the center of the figure. We imagine the tree vertices to be at the center of a
 grid of cells each surrounded by four walls and the edges of the tree specify which walls are to be
 removed; the remaining walls become the boundaries of the maze. r program will read the width and height of 
